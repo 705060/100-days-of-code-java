@@ -1,4 +1,4 @@
-package read;
+//package read;
 import java.util.Scanner;
 //WAJP to read four integer from user and print bigest among the four
 public class readr {
